@@ -1,0 +1,615 @@
+2025-05-07 12:46:35.157 +05:30 [INF] [ThreadId:1] NBomber 3.0.0 Started a new session: 2025-05-07_07.16.00_session_2e46f727
+2025-05-07 12:46:35.546 +05:30 [INF] [ThreadId:1] NBomber started as single node
+2025-05-07 12:46:35.690 +05:30 [INF] [ThreadId:1] Plugins: no plugins were loaded
+2025-05-07 12:46:35.691 +05:30 [INF] [ThreadId:1] Reporting sinks: no reporting sinks were loaded
+2025-05-07 12:46:35.693 +05:30 [INF] [ThreadId:1] Starting init...
+2025-05-07 12:46:35.725 +05:30 [INF] [ThreadId:1] Target scenarios: sync_vs_async
+2025-05-07 12:46:35.760 +05:30 [INF] [ThreadId:1] Init finished
+2025-05-07 12:46:35.764 +05:30 [INF] [ThreadId:1] Starting warm up...
+2025-05-07 12:46:37.175 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:37.175 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:37.175 +05:30 [FTL] [ThreadId:6] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:37.175 +05:30 [FTL] [ThreadId:9] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:37.182 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:37.191 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:37.200 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:37.206 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:37.209 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:37.212 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:38.186 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:38.186 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:38.186 +05:30 [FTL] [ThreadId:22] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:38.186 +05:30 [FTL] [ThreadId:9] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:38.186 +05:30 [FTL] [ThreadId:6] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:38.197 +05:30 [FTL] [ThreadId:22] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:38.216 +05:30 [FTL] [ThreadId:9] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:38.219 +05:30 [FTL] [ThreadId:22] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:38.221 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:38.222 +05:30 [FTL] [ThreadId:9] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:39.233 +05:30 [FTL] [ThreadId:9] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:39.250 +05:30 [FTL] [ThreadId:9] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:39.266 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:39.296 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:39.298 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:39.312 +05:30 [FTL] [ThreadId:22] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:39.311 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:39.313 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:39.329 +05:30 [FTL] [ThreadId:22] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:39.232 +05:30 [FTL] [ThreadId:6] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:40.261 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:40.262 +05:30 [FTL] [ThreadId:6] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:40.545 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:40.560 +05:30 [FTL] [ThreadId:22] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:40.572 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:40.573 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:40.575 +05:30 [FTL] [ThreadId:22] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:40.587 +05:30 [FTL] [ThreadId:22] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:40.587 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:40.578 +05:30 [FTL] [ThreadId:6] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:41.077 +05:30 [INF] [ThreadId:8] Starting bombing...
+2025-05-07 12:46:41.620 +05:30 [FTL] [ThreadId:24] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:41.621 +05:30 [FTL] [ThreadId:24] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:41.622 +05:30 [FTL] [ThreadId:24] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:41.622 +05:30 [FTL] [ThreadId:24] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:41.622 +05:30 [FTL] [ThreadId:24] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:41.623 +05:30 [FTL] [ThreadId:23] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:41.623 +05:30 [FTL] [ThreadId:24] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:41.623 +05:30 [FTL] [ThreadId:22] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:41.623 +05:30 [FTL] [ThreadId:23] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:41.623 +05:30 [FTL] [ThreadId:24] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:42.202 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:42.222 +05:30 [FTL] [ThreadId:24] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:42.232 +05:30 [FTL] [ThreadId:23] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:42.232 +05:30 [FTL] [ThreadId:22] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:42.249 +05:30 [FTL] [ThreadId:22] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:42.243 +05:30 [FTL] [ThreadId:24] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:42.251 +05:30 [FTL] [ThreadId:22] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:42.251 +05:30 [FTL] [ThreadId:23] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:42.232 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:42.232 +05:30 [FTL] [ThreadId:9] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:43.220 +05:30 [FTL] [ThreadId:27] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:43.236 +05:30 [FTL] [ThreadId:27] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:43.301 +05:30 [FTL] [ThreadId:27] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:43.357 +05:30 [FTL] [ThreadId:27] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:43.398 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:43.398 +05:30 [FTL] [ThreadId:9] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:43.396 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:43.406 +05:30 [FTL] [ThreadId:23] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:43.424 +05:30 [FTL] [ThreadId:24] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:43.454 +05:30 [FTL] [ThreadId:6] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:44.589 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:44.589 +05:30 [FTL] [ThreadId:30] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:44.587 +05:30 [FTL] [ThreadId:27] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:44.589 +05:30 [FTL] [ThreadId:31] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:44.610 +05:30 [FTL] [ThreadId:30] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:44.615 +05:30 [FTL] [ThreadId:31] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:44.615 +05:30 [FTL] [ThreadId:27] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:44.613 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:44.619 +05:30 [FTL] [ThreadId:30] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:44.627 +05:30 [FTL] [ThreadId:31] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:45.603 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:45.727 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:45.787 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:45.791 +05:30 [FTL] [ThreadId:6] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:45.795 +05:30 [FTL] [ThreadId:24] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:45.793 +05:30 [FTL] [ThreadId:23] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:45.795 +05:30 [FTL] [ThreadId:22] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:45.793 +05:30 [FTL] [ThreadId:9] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:45.803 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:45.793 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:46.627 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:46.815 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:46.894 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:46.897 +05:30 [FTL] [ThreadId:27] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:46.897 +05:30 [FTL] [ThreadId:24] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:46.895 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:46.913 +05:30 [FTL] [ThreadId:22] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:46.913 +05:30 [FTL] [ThreadId:23] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:46.912 +05:30 [FTL] [ThreadId:9] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:46.973 +05:30 [FTL] [ThreadId:6] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:47.663 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:47.862 +05:30 [FTL] [ThreadId:6] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:47.924 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:47.929 +05:30 [FTL] [ThreadId:30] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:47.920 +05:30 [FTL] [ThreadId:27] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:47.941 +05:30 [FTL] [ThreadId:9] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:47.935 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:48.012 +05:30 [FTL] [ThreadId:23] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:48.012 +05:30 [FTL] [ThreadId:30] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:48.012 +05:30 [FTL] [ThreadId:9] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:48.799 +05:30 [FTL] [ThreadId:6] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:48.988 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:49.099 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:49.103 +05:30 [FTL] [ThreadId:6] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:49.104 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:49.105 +05:30 [FTL] [ThreadId:9] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:49.108 +05:30 [FTL] [ThreadId:9] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:49.111 +05:30 [FTL] [ThreadId:9] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:49.103 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:49.111 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:49.910 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:50.234 +05:30 [FTL] [ThreadId:36] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:50.383 +05:30 [FTL] [ThreadId:36] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:50.385 +05:30 [FTL] [ThreadId:36] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:50.385 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:50.389 +05:30 [FTL] [ThreadId:36] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:50.390 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:50.405 +05:30 [FTL] [ThreadId:36] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:50.624 +05:30 [FTL] [ThreadId:36] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:50.658 +05:30 [FTL] [ThreadId:36] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:51.338 +05:30 [FTL] [ThreadId:35] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:51.350 +05:30 [FTL] [ThreadId:36] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:51.441 +05:30 [FTL] [ThreadId:35] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:51.442 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:51.425 +05:30 [FTL] [ThreadId:4] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:51.458 +05:30 [FTL] [ThreadId:33] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:51.460 +05:30 [FTL] [ThreadId:35] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:51.538 +05:30 [INF] [ThreadId:30] Sync Call - Response Time: 13336 ms, Memory: 168 MB, CPU: 6390.625 ms
+2025-05-07 12:46:51.538 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 12166 ms, Memory: 168 MB, CPU: 6390.625 ms
+2025-05-07 12:46:51.610 +05:30 [FTL] [ThreadId:30] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:51.684 +05:30 [FTL] [ThreadId:36] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:51.785 +05:30 [FTL] [ThreadId:31] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:52.565 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:52.580 +05:30 [FTL] [ThreadId:35] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:52.579 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:52.580 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:52.598 +05:30 [FTL] [ThreadId:35] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:52.598 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:52.575 +05:30 [FTL] [ThreadId:36] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:52.776 +05:30 [FTL] [ThreadId:36] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:52.776 +05:30 [FTL] [ThreadId:35] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:52.871 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 13558 ms, Memory: 168 MB, CPU: 6656.25 ms
+2025-05-07 12:46:52.910 +05:30 [INF] [ThreadId:34] Sync Call - Response Time: 14689 ms, Memory: 168 MB, CPU: 6687.5 ms
+2025-05-07 12:46:52.932 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 15725 ms, Memory: 168 MB, CPU: 6687.5 ms
+2025-05-07 12:46:53.027 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 15849 ms, Memory: 168 MB, CPU: 6750 ms
+2025-05-07 12:46:53.151 +05:30 [FTL] [ThreadId:31] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:53.578 +05:30 [FTL] [ThreadId:4] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:53.591 +05:30 [FTL] [ThreadId:4] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:53.605 +05:30 [FTL] [ThreadId:4] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:53.611 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:53.611 +05:30 [FTL] [ThreadId:33] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:53.611 +05:30 [FTL] [ThreadId:35] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:53.644 +05:30 [FTL] [ThreadId:36] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:53.790 +05:30 [FTL] [ThreadId:36] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:53.810 +05:30 [FTL] [ThreadId:4] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:54.086 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 15893 ms, Memory: 168 MB, CPU: 6921.875 ms
+2025-05-07 12:46:54.086 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 16872 ms, Memory: 168 MB, CPU: 6921.875 ms
+2025-05-07 12:46:54.087 +05:30 [INF] [ThreadId:34] Sync Call - Response Time: 16908 ms, Memory: 168 MB, CPU: 6921.875 ms
+2025-05-07 12:46:54.237 +05:30 [FTL] [ThreadId:35] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:54.598 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:54.644 +05:30 [FTL] [ThreadId:36] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:54.644 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:54.645 +05:30 [FTL] [ThreadId:35] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:54.646 +05:30 [FTL] [ThreadId:36] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:54.647 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:54.645 +05:30 [FTL] [ThreadId:4] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:54.678 +05:30 [INF] [ThreadId:4] Sync Call - Response Time: 17492 ms, Memory: 168 MB, CPU: 7015.625 ms
+2025-05-07 12:46:54.941 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:54.941 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:55.131 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 17939 ms, Memory: 168 MB, CPU: 7109.375 ms
+2025-05-07 12:46:55.165 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 16967 ms, Memory: 168 MB, CPU: 7109.375 ms
+2025-05-07 12:46:55.165 +05:30 [INF] [ThreadId:8] Sync Call - Response Time: 17955 ms, Memory: 168 MB, CPU: 7109.375 ms
+2025-05-07 12:46:55.205 +05:30 [INF] [ThreadId:10] Sync Call - Response Time: 15876 ms, Memory: 168 MB, CPU: 7109.375 ms
+2025-05-07 12:46:55.258 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 18080 ms, Memory: 168 MB, CPU: 7125 ms
+2025-05-07 12:46:55.258 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 15976 ms, Memory: 168 MB, CPU: 7125 ms
+2025-05-07 12:46:55.395 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:55.519 +05:30 [INF] [ThreadId:4] Sync Call - Response Time: 18317 ms, Memory: 168 MB, CPU: 7140.625 ms
+2025-05-07 12:46:55.519 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 18335 ms, Memory: 168 MB, CPU: 7140.625 ms
+2025-05-07 12:46:55.521 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 17300 ms, Memory: 168 MB, CPU: 7140.625 ms
+2025-05-07 12:46:55.521 +05:30 [INF] [ThreadId:34] Sync Call - Response Time: 16222 ms, Memory: 168 MB, CPU: 7140.625 ms
+2025-05-07 12:46:55.521 +05:30 [INF] [ThreadId:33] Sync Call - Response Time: 16208 ms, Memory: 168 MB, CPU: 7140.625 ms
+2025-05-07 12:46:55.557 +05:30 [INF] [ThreadId:30] Sync Call - Response Time: 17360 ms, Memory: 168 MB, CPU: 7140.625 ms
+2025-05-07 12:46:55.558 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 17337 ms, Memory: 168 MB, CPU: 7140.625 ms
+2025-05-07 12:46:56.093 +05:30 [FTL] [ThreadId:35] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:56.206 +05:30 [FTL] [ThreadId:35] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:56.206 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:56.211 +05:30 [FTL] [ThreadId:35] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:56.211 +05:30 [FTL] [ThreadId:36] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:56.224 +05:30 [FTL] [ThreadId:36] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:56.234 +05:30 [FTL] [ThreadId:36] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:56.238 +05:30 [FTL] [ThreadId:4] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:56.241 +05:30 [FTL] [ThreadId:9] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:56.292 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 16995 ms, Memory: 168 MB, CPU: 7187.5 ms
+2025-05-07 12:46:56.292 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 18099 ms, Memory: 168 MB, CPU: 7187.5 ms
+2025-05-07 12:46:56.292 +05:30 [INF] [ThreadId:34] Sync Call - Response Time: 17058 ms, Memory: 168 MB, CPU: 7187.5 ms
+2025-05-07 12:46:56.321 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 18097 ms, Memory: 168 MB, CPU: 7187.5 ms
+2025-05-07 12:46:56.321 +05:30 [INF] [ThreadId:4] Sync Call - Response Time: 16992 ms, Memory: 168 MB, CPU: 7187.5 ms
+2025-05-07 12:46:56.421 +05:30 [INF] [ThreadId:34] Sync Call - Response Time: 17169 ms, Memory: 168 MB, CPU: 7250 ms
+2025-05-07 12:46:56.560 +05:30 [INF] [ThreadId:34] Sync Call - Response Time: 18368 ms, Memory: 168 MB, CPU: 7281.25 ms
+2025-05-07 12:46:56.577 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:57.226 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:57.280 +05:30 [FTL] [ThreadId:6] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:57.280 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:57.341 +05:30 [FTL] [ThreadId:6] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:57.341 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:57.343 +05:30 [FTL] [ThreadId:6] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:57.343 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:57.345 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:57.347 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:57.609 +05:30 [FTL] [ThreadId:6] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:58.294 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:58.355 +05:30 [FTL] [ThreadId:6] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:58.409 +05:30 [FTL] [ThreadId:6] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:58.355 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:58.429 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:58.429 +05:30 [FTL] [ThreadId:6] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:58.433 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:58.433 +05:30 [FTL] [ThreadId:6] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:58.440 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:58.630 +05:30 [FTL] [ThreadId:9] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:59.331 +05:30 [FTL] [ThreadId:30] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:59.541 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:59.541 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:59.548 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:59.541 +05:30 [FTL] [ThreadId:30] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:59.549 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:59.552 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:59.553 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:59.572 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:46:59.724 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 19223 ms, Memory: 168 MB, CPU: 7781.25 ms
+2025-05-07 12:46:59.757 +05:30 [INF] [ThreadId:9] Sync Call - Response Time: 19180 ms, Memory: 168 MB, CPU: 7812.5 ms
+2025-05-07 12:46:59.759 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 18537 ms, Memory: 168 MB, CPU: 7828.125 ms
+2025-05-07 12:46:59.760 +05:30 [INF] [ThreadId:24] Sync Call - Response Time: 17510 ms, Memory: 168 MB, CPU: 7828.125 ms
+2025-05-07 12:46:59.761 +05:30 [INF] [ThreadId:23] Sync Call - Response Time: 19184 ms, Memory: 168 MB, CPU: 7828.125 ms
+2025-05-07 12:46:59.761 +05:30 [INF] [ThreadId:10] Sync Call - Response Time: 18532 ms, Memory: 168 MB, CPU: 7828.125 ms
+2025-05-07 12:46:59.761 +05:30 [INF] [ThreadId:22] Sync Call - Response Time: 18549 ms, Memory: 168 MB, CPU: 7828.125 ms
+2025-05-07 12:47:00.342 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 16876 ms, Memory: 168 MB, CPU: 7859.375 ms
+2025-05-07 12:46:59.767 +05:30 [INF] [ThreadId:30] Sync Call - Response Time: 16465 ms, Memory: 168 MB, CPU: 7828.125 ms
+2025-05-07 12:47:00.342 +05:30 [INF] [ThreadId:27] Sync Call - Response Time: 18120 ms, Memory: 168 MB, CPU: 7859.375 ms
+2025-05-07 12:47:00.343 +05:30 [FTL] [ThreadId:33] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:00.437 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:00.597 +05:30 [FTL] [ThreadId:30] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:00.611 +05:30 [FTL] [ThreadId:30] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:00.614 +05:30 [FTL] [ThreadId:4] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:00.614 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:00.614 +05:30 [FTL] [ThreadId:30] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:00.614 +05:30 [FTL] [ThreadId:33] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:00.614 +05:30 [FTL] [ThreadId:31] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:00.619 +05:30 [FTL] [ThreadId:8] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:00.809 +05:30 [INF] [ThreadId:4] Sync Call - Response Time: 19606 ms, Memory: 168 MB, CPU: 7906.25 ms
+2025-05-07 12:47:00.816 +05:30 [INF] [ThreadId:34] Sync Call - Response Time: 19627 ms, Memory: 168 MB, CPU: 7906.25 ms
+2025-05-07 12:47:00.843 +05:30 [INF] [ThreadId:33] Sync Call - Response Time: 20252 ms, Memory: 168 MB, CPU: 7906.25 ms
+2025-05-07 12:47:00.843 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 18581 ms, Memory: 168 MB, CPU: 7906.25 ms
+2025-05-07 12:47:00.850 +05:30 [INF] [ThreadId:30] Sync Call - Response Time: 17492 ms, Memory: 168 MB, CPU: 7906.25 ms
+2025-05-07 12:47:00.851 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 19624 ms, Memory: 168 MB, CPU: 7906.25 ms
+2025-05-07 12:47:00.843 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 20297 ms, Memory: 168 MB, CPU: 7906.25 ms
+2025-05-07 12:47:00.857 +05:30 [INF] [ThreadId:27] Sync Call - Response Time: 20269 ms, Memory: 168 MB, CPU: 7921.875 ms
+2025-05-07 12:47:00.859 +05:30 [INF] [ThreadId:24] Sync Call - Response Time: 19647 ms, Memory: 168 MB, CPU: 7921.875 ms
+2025-05-07 12:47:00.860 +05:30 [INF] [ThreadId:23] Sync Call - Response Time: 18606 ms, Memory: 168 MB, CPU: 7921.875 ms
+2025-05-07 12:47:00.860 +05:30 [INF] [ThreadId:22] Sync Call - Response Time: 20287 ms, Memory: 168 MB, CPU: 7921.875 ms
+2025-05-07 12:47:00.860 +05:30 [INF] [ThreadId:10] Sync Call - Response Time: 19635 ms, Memory: 168 MB, CPU: 7921.875 ms
+2025-05-07 12:47:00.861 +05:30 [INF] [ThreadId:8] Sync Call - Response Time: 20272 ms, Memory: 168 MB, CPU: 7921.875 ms
+2025-05-07 12:47:00.863 +05:30 [INF] [ThreadId:9] Sync Call - Response Time: 18630 ms, Memory: 168 MB, CPU: 7921.875 ms
+2025-05-07 12:47:00.863 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 18606 ms, Memory: 168 MB, CPU: 7921.875 ms
+2025-05-07 12:47:00.866 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 17467 ms, Memory: 168 MB, CPU: 7953.125 ms
+2025-05-07 12:47:00.877 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 17451 ms, Memory: 168 MB, CPU: 7953.125 ms
+2025-05-07 12:47:00.877 +05:30 [INF] [ThreadId:4] Sync Call - Response Time: 17655 ms, Memory: 168 MB, CPU: 7953.125 ms
+2025-05-07 12:47:00.974 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 18723 ms, Memory: 168 MB, CPU: 7984.375 ms
+2025-05-07 12:47:01.121 +05:30 [INF] [ThreadId:24] Sync Call - Response Time: 20858 ms, Memory: 168 MB, CPU: 8046.875 ms
+2025-05-07 12:47:01.123 +05:30 [INF] [ThreadId:23] Sync Call - Response Time: 19897 ms, Memory: 168 MB, CPU: 8046.875 ms
+2025-05-07 12:47:01.124 +05:30 [INF] [ThreadId:10] Sync Call - Response Time: 18872 ms, Memory: 168 MB, CPU: 8046.875 ms
+2025-05-07 12:47:01.125 +05:30 [INF] [ThreadId:8] Sync Call - Response Time: 18920 ms, Memory: 168 MB, CPU: 8046.875 ms
+2025-05-07 12:47:01.240 +05:30 [INF] [ThreadId:10] Sync Call - Response Time: 18003 ms, Memory: 168 MB, CPU: 8062.5 ms
+2025-05-07 12:47:01.256 +05:30 [INF] [ThreadId:8] Sync Call - Response Time: 20680 ms, Memory: 168 MB, CPU: 8062.5 ms
+2025-05-07 12:47:01.271 +05:30 [INF] [ThreadId:23] Sync Call - Response Time: 20043 ms, Memory: 168 MB, CPU: 8078.125 ms
+2025-05-07 12:47:01.375 +05:30 [INF] [ThreadId:24] Sync Call - Response Time: 17919 ms, Memory: 168 MB, CPU: 8171.875 ms
+2025-05-07 12:47:01.487 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:01.564 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:01.683 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:01.683 +05:30 [FTL] [ThreadId:10] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:01.928 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:02.024 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:02.103 +05:30 [FTL] [ThreadId:36] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:02.132 +05:30 [FTL] [ThreadId:36] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:02.132 +05:30 [FTL] [ThreadId:35] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:02.172 +05:30 [FTL] [ThreadId:36] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:02.396 +05:30 [INF] [ThreadId:10] Sync Call - Response Time: 20158 ms, Memory: 168 MB, CPU: 8328.125 ms
+2025-05-07 12:47:02.524 +05:30 [INF] [ThreadId:34] Sync Call - Response Time: 19110 ms, Memory: 168 MB, CPU: 8421.875 ms
+2025-05-07 12:47:02.552 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 26355 ms, Memory: 168 MB, CPU: 8421.875 ms
+2025-05-07 12:47:03.515 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 18925 ms, Memory: 168 MB, CPU: 8468.75 ms
+2025-05-07 12:47:03.521 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:03.521 +05:30 [FTL] [ThreadId:27] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:03.521 +05:30 [FTL] [ThreadId:35] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:03.523 +05:30 [FTL] [ThreadId:27] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:03.526 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:03.527 +05:30 [FTL] [ThreadId:35] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:03.529 +05:30 [FTL] [ThreadId:27] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:03.530 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:03.524 +05:30 [FTL] [ThreadId:4] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:03.530 +05:30 [FTL] [ThreadId:36] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:04.763 +05:30 [FTL] [ThreadId:24] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:04.845 +05:30 [FTL] [ThreadId:24] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:04.845 +05:30 [FTL] [ThreadId:4] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:04.878 +05:30 [FTL] [ThreadId:24] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:04.878 +05:30 [FTL] [ThreadId:4] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:04.920 +05:30 [FTL] [ThreadId:4] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:04.920 +05:30 [FTL] [ThreadId:24] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:04.950 +05:30 [FTL] [ThreadId:4] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:04.964 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:04.963 +05:30 [FTL] [ThreadId:35] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:05.543 +05:30 [INF] [ThreadId:24] Sync Call - Response Time: 18648 ms, Memory: 168 MB, CPU: 8734.375 ms
+2025-05-07 12:47:05.608 +05:30 [INF] [ThreadId:33] Sync Call - Response Time: 18693 ms, Memory: 168 MB, CPU: 8750 ms
+2025-05-07 12:47:05.611 +05:30 [INF] [ThreadId:34] Sync Call - Response Time: 17946 ms, Memory: 168 MB, CPU: 8750 ms
+2025-05-07 12:47:05.611 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 19823 ms, Memory: 168 MB, CPU: 8750 ms
+2025-05-07 12:47:05.611 +05:30 [INF] [ThreadId:24] Sync Call - Response Time: 21021 ms, Memory: 168 MB, CPU: 8750 ms
+2025-05-07 12:47:05.613 +05:30 [INF] [ThreadId:33] Sync Call - Response Time: 20997 ms, Memory: 168 MB, CPU: 8750 ms
+2025-05-07 12:47:05.615 +05:30 [INF] [ThreadId:24] Sync Call - Response Time: 19811 ms, Memory: 168 MB, CPU: 8750 ms
+2025-05-07 12:47:05.620 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 22213 ms, Memory: 168 MB, CPU: 8750 ms
+2025-05-07 12:47:05.644 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 21054 ms, Memory: 168 MB, CPU: 8750 ms
+2025-05-07 12:47:05.645 +05:30 [INF] [ThreadId:33] Sync Call - Response Time: 29477 ms, Memory: 168 MB, CPU: 8750 ms
+2025-05-07 12:47:05.645 +05:30 [INF] [ThreadId:34] Sync Call - Response Time: 29475 ms, Memory: 168 MB, CPU: 8750 ms
+2025-05-07 12:47:05.650 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 29463 ms, Memory: 168 MB, CPU: 8750 ms
+2025-05-07 12:47:05.661 +05:30 [INF] [ThreadId:24] Sync Call - Response Time: 21071 ms, Memory: 168 MB, CPU: 8750 ms
+2025-05-07 12:47:05.699 +05:30 [INF] [ThreadId:33] Sync Call - Response Time: 21084 ms, Memory: 168 MB, CPU: 8890.625 ms
+2025-05-07 12:47:05.700 +05:30 [INF] [ThreadId:24] Sync Call - Response Time: 21075 ms, Memory: 168 MB, CPU: 8890.625 ms
+2025-05-07 12:47:05.953 +05:30 [FTL] [ThreadId:24] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:05.968 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:05.967 +05:30 [FTL] [ThreadId:24] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:05.968 +05:30 [FTL] [ThreadId:4] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:05.983 +05:30 [FTL] [ThreadId:24] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:06.001 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:06.003 +05:30 [FTL] [ThreadId:24] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:06.012 +05:30 [FTL] [ThreadId:24] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:06.024 +05:30 [FTL] [ThreadId:24] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:06.072 +05:30 [INF] [ThreadId:34] Sync Call - Response Time: 21456 ms, Memory: 168 MB, CPU: 8968.75 ms
+2025-05-07 12:47:05.968 +05:30 [FTL] [ThreadId:33] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:06.097 +05:30 [INF] [ThreadId:4] Sync Call - Response Time: 20338 ms, Memory: 168 MB, CPU: 9000 ms
+2025-05-07 12:47:06.097 +05:30 [INF] [ThreadId:33] Sync Call - Response Time: 20298 ms, Memory: 168 MB, CPU: 9000 ms
+2025-05-07 12:47:06.097 +05:30 [INF] [ThreadId:34] Sync Call - Response Time: 20294 ms, Memory: 168 MB, CPU: 9000 ms
+2025-05-07 12:47:06.098 +05:30 [INF] [ThreadId:24] Sync Call - Response Time: 19200 ms, Memory: 168 MB, CPU: 9000 ms
+2025-05-07 12:47:06.384 +05:30 [INF] [ThreadId:4] Sync Call - Response Time: 20587 ms, Memory: 168 MB, CPU: 9062.5 ms
+2025-05-07 12:47:06.396 +05:30 [INF] [ThreadId:24] Sync Call - Response Time: 30226 ms, Memory: 168 MB, CPU: 9062.5 ms
+2025-05-07 12:47:06.398 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 30199 ms, Memory: 168 MB, CPU: 9093.75 ms
+2025-05-07 12:47:06.410 +05:30 [INF] [ThreadId:34] Sync Call - Response Time: 30212 ms, Memory: 168 MB, CPU: 9093.75 ms
+2025-05-07 12:47:06.411 +05:30 [INF] [ThreadId:4] Sync Call - Response Time: 30413 ms, Memory: 168 MB, CPU: 9093.75 ms
+2025-05-07 12:47:06.446 +05:30 [INF] [ThreadId:4] Sync Call - Response Time: 30278 ms, Memory: 168 MB, CPU: 9093.75 ms
+2025-05-07 12:47:06.528 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 20724 ms, Memory: 168 MB, CPU: 9140.625 ms
+2025-05-07 12:47:06.569 +05:30 [INF] [ThreadId:30] Sync Call - Response Time: 20775 ms, Memory: 168 MB, CPU: 9203.125 ms
+2025-05-07 12:47:06.569 +05:30 [INF] [ThreadId:4] Sync Call - Response Time: 21958 ms, Memory: 168 MB, CPU: 9203.125 ms
+2025-05-07 12:47:06.571 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 19603 ms, Memory: 168 MB, CPU: 9203.125 ms
+2025-05-07 12:47:06.571 +05:30 [INF] [ThreadId:27] Sync Call - Response Time: 21941 ms, Memory: 168 MB, CPU: 9203.125 ms
+2025-05-07 12:47:06.571 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 19939 ms, Memory: 168 MB, CPU: 9203.125 ms
+2025-05-07 12:47:06.572 +05:30 [INF] [ThreadId:24] Sync Call - Response Time: 19670 ms, Memory: 168 MB, CPU: 9203.125 ms
+2025-05-07 12:47:06.574 +05:30 [INF] [ThreadId:23] Sync Call - Response Time: 20969 ms, Memory: 168 MB, CPU: 9203.125 ms
+2025-05-07 12:47:06.575 +05:30 [INF] [ThreadId:22] Sync Call - Response Time: 19601 ms, Memory: 168 MB, CPU: 9203.125 ms
+2025-05-07 12:47:06.575 +05:30 [INF] [ThreadId:10] Sync Call - Response Time: 19660 ms, Memory: 168 MB, CPU: 9203.125 ms
+2025-05-07 12:47:06.581 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 20785 ms, Memory: 168 MB, CPU: 9203.125 ms
+2025-05-07 12:47:06.581 +05:30 [INF] [ThreadId:8] Sync Call - Response Time: 19766 ms, Memory: 168 MB, CPU: 9203.125 ms
+2025-05-07 12:47:06.581 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 18684 ms, Memory: 168 MB, CPU: 9203.125 ms
+2025-05-07 12:47:06.623 +05:30 [INF] [ThreadId:33] Sync Call - Response Time: 18698 ms, Memory: 168 MB, CPU: 9203.125 ms
+2025-05-07 12:47:06.629 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 18651 ms, Memory: 168 MB, CPU: 9203.125 ms
+2025-05-07 12:47:06.722 +05:30 [INF] [ThreadId:34] Sync Call - Response Time: 18770 ms, Memory: 168 MB, CPU: 9234.375 ms
+2025-05-07 12:47:07.075 +05:30 [INF] [ThreadId:4] Sync Call - Response Time: 19063 ms, Memory: 168 MB, CPU: 9312.5 ms
+2025-05-07 12:47:07.085 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 30919 ms, Memory: 168 MB, CPU: 9312.5 ms
+2025-05-07 12:47:07.096 +05:30 [INF] [ThreadId:34] Sync Call - Response Time: 19167 ms, Memory: 168 MB, CPU: 9359.375 ms
+2025-05-07 12:47:07.098 +05:30 [INF] [ThreadId:4] Sync Call - Response Time: 18109 ms, Memory: 168 MB, CPU: 9359.375 ms
+2025-05-07 12:47:07.102 +05:30 [INF] [ThreadId:34] Sync Call - Response Time: 18303 ms, Memory: 168 MB, CPU: 9359.375 ms
+2025-05-07 12:47:07.108 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 19095 ms, Memory: 168 MB, CPU: 9359.375 ms
+2025-05-07 12:47:07.146 +05:30 [INF] [ThreadId:33] Sync Call - Response Time: 20232 ms, Memory: 168 MB, CPU: 9375 ms
+2025-05-07 12:47:07.147 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 19135 ms, Memory: 168 MB, CPU: 9406.25 ms
+2025-05-07 12:47:07.168 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 15557 ms, Memory: 168 MB, CPU: 9453.125 ms
+2025-05-07 12:47:07.182 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 18070 ms, Memory: 168 MB, CPU: 9484.375 ms
+2025-05-07 12:47:07.184 +05:30 [INF] [ThreadId:33] Sync Call - Response Time: 18079 ms, Memory: 168 MB, CPU: 9484.375 ms
+2025-05-07 12:47:07.186 +05:30 [INF] [ThreadId:4] Sync Call - Response Time: 19234 ms, Memory: 168 MB, CPU: 9484.375 ms
+2025-05-07 12:47:07.191 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 17280 ms, Memory: 168 MB, CPU: 9484.375 ms
+2025-05-07 12:47:07.225 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:07.225 +05:30 [FTL] [ThreadId:4] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:07.231 +05:30 [FTL] [ThreadId:4] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:07.236 +05:30 [FTL] [ThreadId:4] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:07.236 +05:30 [FTL] [ThreadId:33] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:07.235 +05:30 [FTL] [ThreadId:36] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:07.235 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:07.236 +05:30 [FTL] [ThreadId:31] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:07.236 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:07.225 +05:30 [FTL] [ThreadId:35] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:07.270 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 18161 ms, Memory: 168 MB, CPU: 9562.5 ms
+2025-05-07 12:47:07.295 +05:30 [INF] [ThreadId:34] Sync Call - Response Time: 18183 ms, Memory: 168 MB, CPU: 9578.125 ms
+2025-05-07 12:47:07.296 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 18183 ms, Memory: 168 MB, CPU: 9578.125 ms
+2025-05-07 12:47:07.296 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 16671 ms, Memory: 168 MB, CPU: 9578.125 ms
+2025-05-07 12:47:07.299 +05:30 [INF] [ThreadId:33] Sync Call - Response Time: 16909 ms, Memory: 168 MB, CPU: 9578.125 ms
+2025-05-07 12:47:07.299 +05:30 [INF] [ThreadId:4] Sync Call - Response Time: 17063 ms, Memory: 168 MB, CPU: 9578.125 ms
+2025-05-07 12:47:07.300 +05:30 [INF] [ThreadId:30] Sync Call - Response Time: 15961 ms, Memory: 168 MB, CPU: 9578.125 ms
+2025-05-07 12:47:07.334 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 18227 ms, Memory: 168 MB, CPU: 9578.125 ms
+2025-05-07 12:47:07.342 +05:30 [INF] [ThreadId:4] Sync Call - Response Time: 18236 ms, Memory: 168 MB, CPU: 9578.125 ms
+2025-05-07 12:47:07.365 +05:30 [INF] [ThreadId:9] Sync Call - Response Time: 14785 ms, Memory: 168 MB, CPU: 9578.125 ms
+2025-05-07 12:47:07.579 +05:30 [INF] [ThreadId:24] Sync Call - Response Time: 15888 ms, Memory: 168 MB, CPU: 9593.75 ms
+2025-05-07 12:47:07.580 +05:30 [INF] [ThreadId:27] Sync Call - Response Time: 16119 ms, Memory: 168 MB, CPU: 9593.75 ms
+2025-05-07 12:47:07.580 +05:30 [INF] [ThreadId:4] Sync Call - Response Time: 16119 ms, Memory: 168 MB, CPU: 9593.75 ms
+2025-05-07 12:47:07.615 +05:30 [INF] [ThreadId:4] Sync Call - Response Time: 18514 ms, Memory: 168 MB, CPU: 9625 ms
+2025-05-07 12:47:07.629 +05:30 [INF] [ThreadId:23] Sync Call - Response Time: 16268 ms, Memory: 168 MB, CPU: 9640.625 ms
+2025-05-07 12:47:07.630 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 17245 ms, Memory: 168 MB, CPU: 9640.625 ms
+2025-05-07 12:47:07.619 +05:30 [INF] [ThreadId:27] Sync Call - Response Time: 17228 ms, Memory: 168 MB, CPU: 9640.625 ms
+2025-05-07 12:47:07.635 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 16891 ms, Memory: 168 MB, CPU: 9687.5 ms
+2025-05-07 12:47:07.647 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 16195 ms, Memory: 168 MB, CPU: 9734.375 ms
+2025-05-07 12:47:07.649 +05:30 [INF] [ThreadId:34] Sync Call - Response Time: 17258 ms, Memory: 168 MB, CPU: 9734.375 ms
+2025-05-07 12:47:07.632 +05:30 [INF] [ThreadId:30] Sync Call - Response Time: 17222 ms, Memory: 168 MB, CPU: 9640.625 ms
+2025-05-07 12:47:07.635 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 17248 ms, Memory: 168 MB, CPU: 9687.5 ms
+2025-05-07 12:47:07.649 +05:30 [INF] [ThreadId:33] Sync Call - Response Time: 16204 ms, Memory: 168 MB, CPU: 9734.375 ms
+2025-05-07 12:47:08.431 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:08.432 +05:30 [FTL] [ThreadId:33] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:08.442 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:08.451 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:08.451 +05:30 [FTL] [ThreadId:33] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:08.462 +05:30 [FTL] [ThreadId:36] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:08.472 +05:30 [INF] [ThreadId:33] Sync Call - Response Time: 14860 ms, Memory: 168 MB, CPU: 9765.625 ms
+2025-05-07 12:47:08.477 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 15911 ms, Memory: 168 MB, CPU: 9765.625 ms
+2025-05-07 12:47:08.483 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 15903 ms, Memory: 168 MB, CPU: 9765.625 ms
+2025-05-07 12:47:08.484 +05:30 [INF] [ThreadId:34] Sync Call - Response Time: 14871 ms, Memory: 168 MB, CPU: 9765.625 ms
+2025-05-07 12:47:08.484 +05:30 [FTL] [ThreadId:31] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:08.451 +05:30 [FTL] [ThreadId:30] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:08.484 +05:30 [INF] [ThreadId:4] Sync Call - Response Time: 11140 ms, Memory: 168 MB, CPU: 9765.625 ms
+2025-05-07 12:47:08.490 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 16705 ms, Memory: 168 MB, CPU: 9765.625 ms
+2025-05-07 12:47:08.451 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:08.530 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 14885 ms, Memory: 168 MB, CPU: 9765.625 ms
+2025-05-07 12:47:08.533 +05:30 [INF] [ThreadId:34] Sync Call - Response Time: 14712 ms, Memory: 168 MB, CPU: 9765.625 ms
+2025-05-07 12:47:08.540 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 14748 ms, Memory: 168 MB, CPU: 9781.25 ms
+2025-05-07 12:47:08.541 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 14304 ms, Memory: 168 MB, CPU: 9781.25 ms
+2025-05-07 12:47:08.587 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 15435 ms, Memory: 168 MB, CPU: 9781.25 ms
+2025-05-07 12:47:08.592 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 15978 ms, Memory: 168 MB, CPU: 9781.25 ms
+2025-05-07 12:47:08.591 +05:30 [INF] [ThreadId:34] Sync Call - Response Time: 15990 ms, Memory: 168 MB, CPU: 9781.25 ms
+2025-05-07 12:47:08.593 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 15815 ms, Memory: 168 MB, CPU: 9781.25 ms
+2025-05-07 12:47:08.592 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 15815 ms, Memory: 168 MB, CPU: 9781.25 ms
+2025-05-07 12:47:08.601 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 16019 ms, Memory: 168 MB, CPU: 9781.25 ms
+2025-05-07 12:47:08.608 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 17155 ms, Memory: 168 MB, CPU: 9812.5 ms
+2025-05-07 12:47:08.629 +05:30 [INF] [ThreadId:34] Sync Call - Response Time: 13984 ms, Memory: 168 MB, CPU: 9828.125 ms
+2025-05-07 12:47:08.629 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 13983 ms, Memory: 168 MB, CPU: 9828.125 ms
+2025-05-07 12:47:08.636 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 13694 ms, Memory: 168 MB, CPU: 9828.125 ms
+2025-05-07 12:47:08.646 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 13704 ms, Memory: 168 MB, CPU: 9828.125 ms
+2025-05-07 12:47:08.652 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 14003 ms, Memory: 168 MB, CPU: 9828.125 ms
+2025-05-07 12:47:08.663 +05:30 [INF] [ThreadId:34] Sync Call - Response Time: 13266 ms, Memory: 168 MB, CPU: 9828.125 ms
+2025-05-07 12:47:08.670 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 14023 ms, Memory: 168 MB, CPU: 9828.125 ms
+2025-05-07 12:47:08.676 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 14027 ms, Memory: 168 MB, CPU: 9828.125 ms
+2025-05-07 12:47:08.700 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 14055 ms, Memory: 168 MB, CPU: 9843.75 ms
+2025-05-07 12:47:08.719 +05:30 [FTL] [ThreadId:34] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:08.863 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 12625 ms, Memory: 168 MB, CPU: 9859.375 ms
+2025-05-07 12:47:08.896 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 15304 ms, Memory: 168 MB, CPU: 9859.375 ms
+2025-05-07 12:47:08.903 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 15324 ms, Memory: 168 MB, CPU: 9859.375 ms
+2025-05-07 12:47:08.907 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 12664 ms, Memory: 168 MB, CPU: 9859.375 ms
+2025-05-07 12:47:08.907 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 15302 ms, Memory: 168 MB, CPU: 9859.375 ms
+2025-05-07 12:47:08.915 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 11570 ms, Memory: 168 MB, CPU: 9859.375 ms
+2025-05-07 12:47:08.916 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 12672 ms, Memory: 168 MB, CPU: 9859.375 ms
+2025-05-07 12:47:08.933 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 11592 ms, Memory: 168 MB, CPU: 9875 ms
+2025-05-07 12:47:08.939 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 11597 ms, Memory: 168 MB, CPU: 9875 ms
+2025-05-07 12:47:08.944 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 15332 ms, Memory: 168 MB, CPU: 9906.25 ms
+2025-05-07 12:47:08.948 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 14349 ms, Memory: 168 MB, CPU: 9906.25 ms
+2025-05-07 12:47:08.977 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 12397 ms, Memory: 168 MB, CPU: 9921.875 ms
+2025-05-07 12:47:09.010 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 16410 ms, Memory: 168 MB, CPU: 9921.875 ms
+2025-05-07 12:47:08.997 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 12783 ms, Memory: 168 MB, CPU: 9921.875 ms
+2025-05-07 12:47:09.036 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 12943 ms, Memory: 168 MB, CPU: 9921.875 ms
+2025-05-07 12:47:09.051 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 12844 ms, Memory: 168 MB, CPU: 9921.875 ms
+2025-05-07 12:47:09.056 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 12821 ms, Memory: 168 MB, CPU: 9921.875 ms
+2025-05-07 12:47:09.060 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 12835 ms, Memory: 168 MB, CPU: 9921.875 ms
+2025-05-07 12:47:09.058 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 12852 ms, Memory: 168 MB, CPU: 9921.875 ms
+2025-05-07 12:47:09.116 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 11817 ms, Memory: 168 MB, CPU: 9953.125 ms
+2025-05-07 12:47:09.122 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 11896 ms, Memory: 168 MB, CPU: 9953.125 ms
+2025-05-07 12:47:09.149 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 9565 ms, Memory: 168 MB, CPU: 9968.75 ms
+2025-05-07 12:47:09.164 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 8549 ms, Memory: 168 MB, CPU: 9968.75 ms
+2025-05-07 12:47:09.161 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 11838 ms, Memory: 168 MB, CPU: 9968.75 ms
+2025-05-07 12:47:09.166 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 9611 ms, Memory: 168 MB, CPU: 9968.75 ms
+2025-05-07 12:47:09.166 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 8551 ms, Memory: 168 MB, CPU: 9968.75 ms
+2025-05-07 12:47:09.168 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 8548 ms, Memory: 168 MB, CPU: 9968.75 ms
+2025-05-07 12:47:09.178 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 9846 ms, Memory: 168 MB, CPU: 9968.75 ms
+2025-05-07 12:47:09.181 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 8569 ms, Memory: 168 MB, CPU: 9968.75 ms
+2025-05-07 12:47:09.180 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 8565 ms, Memory: 168 MB, CPU: 9968.75 ms
+2025-05-07 12:47:09.288 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 11941 ms, Memory: 168 MB, CPU: 10031.25 ms
+2025-05-07 12:47:09.286 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 11938 ms, Memory: 168 MB, CPU: 10031.25 ms
+2025-05-07 12:47:09.295 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 10939 ms, Memory: 168 MB, CPU: 10046.875 ms
+2025-05-07 12:47:09.295 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 10861 ms, Memory: 168 MB, CPU: 10046.875 ms
+2025-05-07 12:47:09.300 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 10891 ms, Memory: 168 MB, CPU: 10046.875 ms
+2025-05-07 12:47:09.308 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 11698 ms, Memory: 168 MB, CPU: 10062.5 ms
+2025-05-07 12:47:09.310 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 10880 ms, Memory: 168 MB, CPU: 10062.5 ms
+2025-05-07 12:47:09.311 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 11017 ms, Memory: 168 MB, CPU: 10062.5 ms
+2025-05-07 12:47:09.315 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 10906 ms, Memory: 168 MB, CPU: 10062.5 ms
+2025-05-07 12:47:09.322 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 10892 ms, Memory: 168 MB, CPU: 10093.75 ms
+2025-05-07 12:47:09.322 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 10888 ms, Memory: 168 MB, CPU: 10093.75 ms
+2025-05-07 12:47:09.324 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 10882 ms, Memory: 168 MB, CPU: 10093.75 ms
+2025-05-07 12:47:09.331 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 9777 ms, Memory: 168 MB, CPU: 10093.75 ms
+2025-05-07 12:47:09.343 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 9800 ms, Memory: 168 MB, CPU: 10093.75 ms
+2025-05-07 12:47:09.344 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 10713 ms, Memory: 168 MB, CPU: 10093.75 ms
+2025-05-07 12:47:09.344 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 9794 ms, Memory: 168 MB, CPU: 10093.75 ms
+2025-05-07 12:47:09.347 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 9798 ms, Memory: 168 MB, CPU: 10093.75 ms
+2025-05-07 12:47:09.364 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 9791 ms, Memory: 168 MB, CPU: 10109.375 ms
+2025-05-07 12:47:09.366 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 8768 ms, Memory: 168 MB, CPU: 10109.375 ms
+2025-05-07 12:47:09.366 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 9813 ms, Memory: 168 MB, CPU: 10109.375 ms
+2025-05-07 12:47:09.375 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 9006 ms, Memory: 168 MB, CPU: 10109.375 ms
+2025-05-07 12:47:09.376 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 8938 ms, Memory: 168 MB, CPU: 10109.375 ms
+2025-05-07 12:47:09.392 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 5858 ms, Memory: 168 MB, CPU: 10109.375 ms
+2025-05-07 12:47:09.393 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 4548 ms, Memory: 168 MB, CPU: 10109.375 ms
+2025-05-07 12:47:09.397 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 4551 ms, Memory: 168 MB, CPU: 10109.375 ms
+2025-05-07 12:47:09.426 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 4546 ms, Memory: 168 MB, CPU: 10140.625 ms
+2025-05-07 12:47:09.427 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 4506 ms, Memory: 168 MB, CPU: 10140.625 ms
+2025-05-07 12:47:09.428 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 4507 ms, Memory: 168 MB, CPU: 10140.625 ms
+2025-05-07 12:47:09.430 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 4551 ms, Memory: 168 MB, CPU: 10156.25 ms
+2025-05-07 12:47:09.432 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 7503 ms, Memory: 168 MB, CPU: 10156.25 ms
+2025-05-07 12:47:09.434 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 7870 ms, Memory: 168 MB, CPU: 10156.25 ms
+2025-05-07 12:47:09.435 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 4465 ms, Memory: 168 MB, CPU: 10156.25 ms
+2025-05-07 12:47:09.444 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 7761 ms, Memory: 168 MB, CPU: 10171.875 ms
+2025-05-07 12:47:09.445 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 7958 ms, Memory: 168 MB, CPU: 10171.875 ms
+2025-05-07 12:47:09.451 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 7426 ms, Memory: 168 MB, CPU: 10171.875 ms
+2025-05-07 12:47:09.463 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 7359 ms, Memory: 168 MB, CPU: 10203.125 ms
+2025-05-07 12:47:09.475 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 4710 ms, Memory: 168 MB, CPU: 10203.125 ms
+2025-05-07 12:47:09.475 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 5942 ms, Memory: 168 MB, CPU: 10203.125 ms
+2025-05-07 12:47:09.481 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 8827 ms, Memory: 168 MB, CPU: 10203.125 ms
+2025-05-07 12:47:09.481 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 5957 ms, Memory: 168 MB, CPU: 10203.125 ms
+2025-05-07 12:47:09.493 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 8873 ms, Memory: 168 MB, CPU: 10218.75 ms
+2025-05-07 12:47:09.494 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 4522 ms, Memory: 168 MB, CPU: 10218.75 ms
+2025-05-07 12:47:09.494 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 7362 ms, Memory: 168 MB, CPU: 10218.75 ms
+2025-05-07 12:47:09.499 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 7324 ms, Memory: 168 MB, CPU: 10218.75 ms
+2025-05-07 12:47:09.502 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 7369 ms, Memory: 168 MB, CPU: 10218.75 ms
+2025-05-07 12:47:09.506 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 7823 ms, Memory: 168 MB, CPU: 10218.75 ms
+2025-05-07 12:47:09.513 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 4553 ms, Memory: 168 MB, CPU: 10250 ms
+2025-05-07 12:47:09.517 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 3512 ms, Memory: 168 MB, CPU: 10250 ms
+2025-05-07 12:47:09.521 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 3508 ms, Memory: 168 MB, CPU: 10250 ms
+2025-05-07 12:47:09.526 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 3443 ms, Memory: 168 MB, CPU: 10265.625 ms
+2025-05-07 12:47:09.527 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 6005 ms, Memory: 168 MB, CPU: 10265.625 ms
+2025-05-07 12:47:09.531 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 6007 ms, Memory: 168 MB, CPU: 10265.625 ms
+2025-05-07 12:47:09.538 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 6007 ms, Memory: 168 MB, CPU: 10312.5 ms
+2025-05-07 12:47:09.543 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 6019 ms, Memory: 168 MB, CPU: 10312.5 ms
+2025-05-07 12:47:09.543 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 6014 ms, Memory: 168 MB, CPU: 10312.5 ms
+2025-05-07 12:47:09.543 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 3574 ms, Memory: 168 MB, CPU: 10312.5 ms
+2025-05-07 12:47:09.552 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 3583 ms, Memory: 168 MB, CPU: 10312.5 ms
+2025-05-07 12:47:09.553 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 3565 ms, Memory: 168 MB, CPU: 10312.5 ms
+2025-05-07 12:47:09.561 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 2324 ms, Memory: 168 MB, CPU: 10312.5 ms
+2025-05-07 12:47:09.561 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 3536 ms, Memory: 168 MB, CPU: 10312.5 ms
+2025-05-07 12:47:09.566 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 1093 ms, Memory: 168 MB, CPU: 10312.5 ms
+2025-05-07 12:47:09.573 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 1122 ms, Memory: 168 MB, CPU: 10328.125 ms
+2025-05-07 12:47:09.575 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 2284 ms, Memory: 168 MB, CPU: 10328.125 ms
+2025-05-07 12:47:09.583 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 1139 ms, Memory: 168 MB, CPU: 10328.125 ms
+2025-05-07 12:47:09.589 +05:30 [FTL] [ThreadId:31] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:09.600 +05:30 [FTL] [ThreadId:31] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:09.609 +05:30 [FTL] [ThreadId:31] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:09.614 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 2368 ms, Memory: 168 MB, CPU: 10359.375 ms
+2025-05-07 12:47:09.629 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 2384 ms, Memory: 168 MB, CPU: 10359.375 ms
+2025-05-07 12:47:09.709 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 1257 ms, Memory: 168 MB, CPU: 10359.375 ms
+2025-05-07 12:47:09.737 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 2499 ms, Memory: 168 MB, CPU: 10359.375 ms
+2025-05-07 12:47:09.745 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 1021 ms, Memory: 168 MB, CPU: 10359.375 ms
+2025-05-07 12:47:09.769 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 2532 ms, Memory: 168 MB, CPU: 10359.375 ms
+2025-05-07 12:47:09.779 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 2553 ms, Memory: 168 MB, CPU: 10359.375 ms
+2025-05-07 12:47:09.794 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 2560 ms, Memory: 168 MB, CPU: 10359.375 ms
+2025-05-07 12:47:09.810 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 2573 ms, Memory: 168 MB, CPU: 10359.375 ms
+2025-05-07 12:47:09.816 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 3860 ms, Memory: 168 MB, CPU: 10359.375 ms
+2025-05-07 12:47:09.818 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 1319 ms, Memory: 168 MB, CPU: 10359.375 ms
+2025-05-07 12:47:09.827 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 1342 ms, Memory: 168 MB, CPU: 10359.375 ms
+2025-05-07 12:47:09.832 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 3863 ms, Memory: 168 MB, CPU: 10359.375 ms
+2025-05-07 12:47:09.842 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 1399 ms, Memory: 168 MB, CPU: 10359.375 ms
+2025-05-07 12:47:09.859 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 6331 ms, Memory: 168 MB, CPU: 10359.375 ms
+2025-05-07 12:47:09.881 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 1397 ms, Memory: 168 MB, CPU: 10359.375 ms
+2025-05-07 12:47:09.970 +05:30 [INF] [ThreadId:29] Sync Call - Response Time: 6439 ms, Memory: 168 MB, CPU: 10375 ms
+2025-05-07 12:47:09.972 +05:30 [INF] [ThreadId:6] Sync Call - Response Time: 1539 ms, Memory: 168 MB, CPU: 10375 ms
+2025-05-07 12:47:09.974 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 2748 ms, Memory: 168 MB, CPU: 10375 ms
+2025-05-07 12:47:09.976 +05:30 [INF] [ThreadId:31] Sync Call - Response Time: 3972 ms, Memory: 168 MB, CPU: 10375 ms
+2025-05-07 12:47:09.996 +05:30 [FTL] [ThreadId:29] Step 'sync_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:10.118 +05:30 [INF] [ThreadId:9] Sync Call - Response Time: 517 ms, Memory: 168 MB, CPU: 10390.625 ms
+2025-05-07 12:47:10.265 +05:30 [INF] [ThreadId:9] Sync Call - Response Time: 676 ms, Memory: 168 MB, CPU: 10421.875 ms
+2025-05-07 12:47:10.269 +05:30 [INF] [ThreadId:8] Sync Call - Response Time: 272 ms, Memory: 168 MB, CPU: 10421.875 ms
+2025-05-07 12:47:10.330 +05:30 [INF] [ThreadId:10] Sync Call - Response Time: 720 ms, Memory: 168 MB, CPU: 10421.875 ms
+2025-05-07 12:47:10.424 +05:30 [INF] [ThreadId:10] Async Call - Response Time: 647 ms, Memory: 168 MB, CPU: 10437.5 ms
+2025-05-07 12:47:10.507 +05:30 [INF] [ThreadId:22] Async Call - Response Time: 708 ms, Memory: 168 MB, CPU: 10468.75 ms
+2025-05-07 12:47:10.642 +05:30 [INF] [ThreadId:36] Async Call - Response Time: 931 ms, Memory: 168 MB, CPU: 10484.375 ms
+2025-05-07 12:47:10.664 +05:30 [FTL] [ThreadId:9] Step 'async_call' from Scenario: 'sync_vs_async' has failed. Error: step timeout: 1000 ms
+2025-05-07 12:47:10.678 +05:30 [INF] [ThreadId:9] Async Call - Response Time: 1043 ms, Memory: 168 MB, CPU: 10515.625 ms
+2025-05-07 12:47:10.764 +05:30 [INF] [ThreadId:23] Async Call - Response Time: 1179 ms, Memory: 168 MB, CPU: 10531.25 ms
+2025-05-07 12:47:10.764 +05:30 [INF] [ThreadId:22] Sync Call - Response Time: 246 ms, Memory: 168 MB, CPU: 10531.25 ms
+2025-05-07 12:47:10.824 +05:30 [INF] [ThreadId:22] Async Call - Response Time: 914 ms, Memory: 168 MB, CPU: 10531.25 ms
+2025-05-07 12:47:10.915 +05:30 [INF] [ThreadId:24] Sync Call - Response Time: 473 ms, Memory: 168 MB, CPU: 10546.875 ms
+2025-05-07 12:47:10.987 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 323 ms, Memory: 168 MB, CPU: 10562.5 ms
+2025-05-07 12:47:11.074 +05:30 [INF] [ThreadId:36] Sync Call - Response Time: 390 ms, Memory: 168 MB, CPU: 10593.75 ms
+2025-05-07 12:47:11.100 +05:30 [INF] [ThreadId:4] Sync Call - Response Time: 365 ms, Memory: 168 MB, CPU: 10593.75 ms
+2025-05-07 12:47:11.107 +05:30 [INF] [ThreadId:36] Async Call - Response Time: 980 ms, Memory: 168 MB, CPU: 10593.75 ms
+2025-05-07 12:47:11.109 +05:30 [INF] [ThreadId:35] Async Call - Response Time: 834 ms, Memory: 168 MB, CPU: 10593.75 ms
+2025-05-07 12:47:11.122 +05:30 [INF] [ThreadId:34] Sync Call - Response Time: 277 ms, Memory: 168 MB, CPU: 10593.75 ms
+2025-05-07 12:47:11.122 +05:30 [INF] [ThreadId:33] Async Call - Response Time: 837 ms, Memory: 168 MB, CPU: 10593.75 ms
+2025-05-07 12:47:11.204 +05:30 [INF] [ThreadId:33] Async Call - Response Time: 849 ms, Memory: 168 MB, CPU: 10625 ms
+2025-05-07 12:47:11.457 +05:30 [INF] [ThreadId:34] Async Call - Response Time: 684 ms, Memory: 168 MB, CPU: 10718.75 ms
+2025-05-07 12:47:11.463 +05:30 [INF] [ThreadId:4] Sync Call - Response Time: 334 ms, Memory: 168 MB, CPU: 10734.375 ms
+2025-05-07 12:47:11.464 +05:30 [INF] [ThreadId:35] Sync Call - Response Time: 306 ms, Memory: 168 MB, CPU: 10734.375 ms
+2025-05-07 12:47:11.482 +05:30 [INF] [ThreadId:36] Async Call - Response Time: 486 ms, Memory: 168 MB, CPU: 10734.375 ms
+2025-05-07 12:47:11.482 +05:30 [INF] [ThreadId:34] Async Call - Response Time: 559 ms, Memory: 168 MB, CPU: 10734.375 ms
+2025-05-07 12:47:11.482 +05:30 [INF] [ThreadId:33] Sync Call - Response Time: 352 ms, Memory: 168 MB, CPU: 10734.375 ms
+2025-05-07 12:47:11.488 +05:30 [INF] [ThreadId:31] Async Call - Response Time: 394 ms, Memory: 168 MB, CPU: 10734.375 ms
+2025-05-07 12:47:11.491 +05:30 [INF] [ThreadId:35] Async Call - Response Time: 347 ms, Memory: 168 MB, CPU: 10734.375 ms
+2025-05-07 12:47:11.494 +05:30 [INF] [ThreadId:36] Async Call - Response Time: 372 ms, Memory: 168 MB, CPU: 10750 ms
+2025-05-07 12:47:14.224 +05:30 [INF] [ThreadId:10] Stopping scenarios...
+2025-05-07 12:47:14.233 +05:30 [INF] [ThreadId:10] Calculating final statistics...
+2025-05-07 12:47:14.591 +05:30 [WRN] [ThreadId:9] Test finished with errors, please check the log file
+2025-05-07 12:47:14.592 +05:30 [INF] [ThreadId:9] Reports saved in folder: D:\POC\NBomberBenchmarkApp\bin\Release\net8.0\reports\2025-05-07_07.16.00_session_2e46f727

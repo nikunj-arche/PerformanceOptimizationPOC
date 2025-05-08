@@ -1,0 +1,62 @@
+[
+  {
+    "ContainingType": "PerformanceOptimizationApi.Controllers.ProductsController",
+    "Method": "GetProductsAsync",
+    "RelativePath": "api/Products/async",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PerformanceOptimizationApi.Controllers.ProductsController",
+    "Method": "GetProductsWithCache",
+    "RelativePath": "api/Products/cached",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PerformanceOptimizationApi.Controllers.ProductsController",
+    "Method": "GetProductsWithOptimizedLinq",
+    "RelativePath": "api/Products/optimized",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PerformanceOptimizationApi.Controllers.ProductsController",
+    "Method": "GetProductsWithSlowLinq",
+    "RelativePath": "api/Products/slow",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PerformanceOptimizationApi.Controllers.ProductsController",
+    "Method": "GetProductsSync",
+    "RelativePath": "api/Products/sync",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PerformanceOptimizationApi.Controllers.ProductsController",
+    "Method": "GetProductsWithUnoptimizedLinq",
+    "RelativePath": "api/Products/unoptimized",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

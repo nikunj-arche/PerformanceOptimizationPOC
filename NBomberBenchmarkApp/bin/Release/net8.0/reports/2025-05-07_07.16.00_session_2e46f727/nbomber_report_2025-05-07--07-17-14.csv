@@ -1,0 +1,3 @@
+test_suite,test_name,scenario,duration,step_name,request_count,ok,failed,rps,min,mean,max,50_percent,75_percent,95_percent,99_percent,std_dev,data_transfer_min_kb,data_transfer_mean_kb,data_transfer_max_kb,data_transfer_all_mb
+nbomber_default_test_suite_name,nbomber_default_test_name,sync_vs_async,00:00:30,sync_call,252,19,233,0.6,50.12,633.65,1463.77,480.51,1080.32,1326.08,1464.32,452.28,0,0,0,0
+nbomber_default_test_suite_name,nbomber_default_test_name,sync_vs_async,00:00:30,async_call,16,15,1,0.5,64.37,611.22,1097.98,719.36,875.52,1001.98,1098.75,360,0,0,0,0

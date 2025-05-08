@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>BenchmarkRunnerApp.BenchmarkTests-20250508-115844</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet v0.14.0, Windows 10 (10.0.19045.5737/22H2/2022Update)
+Intel Core i7-6600U CPU 2.60GHz (Skylake), 1 CPU, 4 logical and 2 physical cores
+.NET SDK 9.0.203
+  [Host]     : .NET 8.0.15 (8.0.1525.16413), X64 RyuJIT AVX2 [AttachedDebugger]
+  Job-TPHPCM : .NET 8.0.15 (8.0.1525.16413), X64 RyuJIT AVX2
+</code></pre>
+<pre><code>IterationCount=10  LaunchCount=1  WarmupCount=3  
+</code></pre>
+
+<table>
+<thead><tr><th>Method                  </th><th>Mean      </th><th>Error     </th><th>StdDev    </th><th>Gen0</th><th>Gen1</th><th>Gen2</th><th>Allocated</th>
+</tr>
+</thead><tbody><tr><td>GetProductsSync</td><td>13,985,031.88 ns</td><td>2,930,207.492 ns</td><td>1,938,150.830 ns</td><td>1250.0000</td><td>-</td><td>-</td><td>2746520 B</td>
+</tr><tr><td>GetProductsAsync</td><td>25,445,712.50 ns</td><td>626,193.177 ns</td><td>414,188.016 ns</td><td>968.7500</td><td>406.2500</td><td>125.0000</td><td>5509547 B</td>
+</tr><tr><td>GetProductsWithSlowLinq</td><td>18,117,936.56 ns</td><td>1,704,462.120 ns</td><td>1,127,396.159 ns</td><td>687.5000</td><td>281.2500</td><td>93.7500</td><td>3907718 B</td>
+</tr><tr><td>GetProductsWithCaching</td><td>50.05 ns</td><td>2.549 ns</td><td>1.517 ns</td><td>-</td><td>-</td><td>-</td><td>-</td>
+</tr><tr><td>GetProductsWithUnoptimizedLinq</td><td>9,958,737.33 ns</td><td>523,424.463 ns</td><td>311,481.502 ns</td><td>1265.6250</td><td>31.2500</td><td>15.6250</td><td>2746536 B</td>
+</tr><tr><td>GetProductsWithOptimizedLinq</td><td>16,793,996.48 ns</td><td>542,457.830 ns</td><td>283,715.934 ns</td><td>687.5000</td><td>281.2500</td><td>93.7500</td><td>3907216 B</td>
+</tr></tbody></table>
+</body>
+</html>
