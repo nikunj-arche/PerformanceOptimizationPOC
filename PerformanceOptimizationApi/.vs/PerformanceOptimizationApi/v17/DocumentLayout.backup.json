@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\POC\\PerformanceOptimizationPOC\\PerformanceOptimizationPOC\\PerformanceOptimizationApi\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F69B56A-BCAF-4787-81FC-B175DCA0D78E}|PerformanceOptimizationApi.csproj|d:\\poc\\performanceoptimizationpoc\\performanceoptimizationpoc\\performanceoptimizationapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F69B56A-BCAF-4787-81FC-B175DCA0D78E}|PerformanceOptimizationApi.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F69B56A-BCAF-4787-81FC-B175DCA0D78E}|PerformanceOptimizationApi.csproj|d:\\poc\\performanceoptimizationpoc\\performanceoptimizationpoc\\performanceoptimizationapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F69B56A-BCAF-4787-81FC-B175DCA0D78E}|PerformanceOptimizationApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F69B56A-BCAF-4787-81FC-B175DCA0D78E}|PerformanceOptimizationApi.csproj|d:\\poc\\performanceoptimizationpoc\\performanceoptimizationpoc\\performanceoptimizationapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F69B56A-BCAF-4787-81FC-B175DCA0D78E}|PerformanceOptimizationApi.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +35,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\POC\\PerformanceOptimizationPOC\\PerformanceOptimizationPOC\\PerformanceOptimizationApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\POC\\PerformanceOptimizationPOC\\PerformanceOptimizationPOC\\PerformanceOptimizationApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAACAITMzMzMbwBoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T04:44:41.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\POC\\PerformanceOptimizationPOC\\PerformanceOptimizationPOC\\PerformanceOptimizationApi\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "D:\\POC\\PerformanceOptimizationPOC\\PerformanceOptimizationPOC\\PerformanceOptimizationApi\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAkAAAAAMTMzMzMLwB0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T04:44:36.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\POC\\PerformanceOptimizationPOC\\PerformanceOptimizationPOC\\PerformanceOptimizationApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\POC\\PerformanceOptimizationPOC\\PerformanceOptimizationPOC\\PerformanceOptimizationApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T04:44:01.935Z",
+              "EditorCaption": ""
             }
           ]
         }

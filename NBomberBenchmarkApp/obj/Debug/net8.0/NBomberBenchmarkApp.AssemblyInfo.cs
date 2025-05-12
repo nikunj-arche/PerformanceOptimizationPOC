@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NBomberBenchmarkApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac7d6ba5da7f2c4ff654b037e43aa0503826a979")]
 [assembly: System.Reflection.AssemblyProductAttribute("NBomberBenchmarkApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NBomberBenchmarkApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

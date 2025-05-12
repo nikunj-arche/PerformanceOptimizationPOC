@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BenchmarkRunnerApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac7d6ba5da7f2c4ff654b037e43aa0503826a979")]
 [assembly: System.Reflection.AssemblyProductAttribute("BenchmarkRunnerApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BenchmarkRunnerApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -462,3 +462,4 @@ D:\POC\PerformanceOptimizationPOC\PerformanceOptimizationPOC\PerformanceOptimiza
 D:\POC\PerformanceOptimizationPOC\PerformanceOptimizationPOC\PerformanceOptimizationApi\obj\Release\net8.0\PerformanceOptimizationApi.pdb
 D:\POC\PerformanceOptimizationPOC\PerformanceOptimizationPOC\PerformanceOptimizationApi\obj\Release\net8.0\PerformanceOptimizationApi.genruntimeconfig.cache
 D:\POC\PerformanceOptimizationPOC\PerformanceOptimizationPOC\PerformanceOptimizationApi\obj\Release\net8.0\ref\PerformanceOptimizationApi.dll
+D:\POC\PerformanceOptimizationPOC\PerformanceOptimizationPOC\PerformanceOptimizationApi\obj\Release\net8.0\PerformanceOptimizationApi.sourcelink.json
